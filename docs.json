@@ -22,24 +22,54 @@
             ]
           },
           {
-            "group": "Fundamentals",
+            "group": "Sports Betting Basics",
             "pages": [
-              "guides/sports-betting-basics",
-              "guides/core-concepts",
-              "guides/tools-features"
+              "guides/sports-betting-basics/how-to-read-odds",
+              "guides/sports-betting-basics/moneyline",
+              "guides/sports-betting-basics/point-spread",
+              "guides/sports-betting-basics/total-over-under",
+              "guides/sports-betting-basics/common-terminology"
             ]
           },
           {
-            "group": "Sportsbooks & Strategy",
+            "group": "Core Concepts",
             "pages": [
-              "guides/sportsbook-types",
-              "guides/dont-get-limited",
-              "guides/risk-management"
+              "guides/core-concepts/understanding-matched-betting",
+              "guides/core-concepts/types-of-arbitrage",
+              "guides/core-concepts/risk-management-fundamentals"
+            ]
+          },
+          {
+            "group": "Tools & Features",
+            "pages": [
+              "guides/tools-features/essential-tools",
+              "guides/tools-features/portfolio-management",
+              "guides/tools-features/advanced-features"
+            ]
+          },
+          {
+            "group": "Don't Get Limited",
+            "pages": [
+              "guides/dont-get-limited/why-sportsbooks-limit",
+              "guides/dont-get-limited/behaviors-that-trigger-limits",
+              "guides/dont-get-limited/bet-like-recreational-player",
+              "guides/dont-get-limited/bankroll-withdrawal-strategy",
+              "guides/dont-get-limited/advanced-stealth-techniques"
+            ]
+          },
+          {
+            "group": "Risk Management",
+            "pages": [
+              "guides/risk-management/avoiding-account-limits",
+              "guides/risk-management/bankroll-protection",
+              "guides/risk-management/preventing-human-error",
+              "guides/risk-management/account-security"
             ]
           },
           {
             "group": "Advanced Topics",
             "pages": [
+              "guides/sportsbook-types",
               "guides/ongoing-promotions",
               "guides/stacking-promotions",
               "guides/vip-programs"
